@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ミラーチューン",
   "base_artist": "ずっと真夜中でいいのに。",
-  "createdAt": "2025-12-21T08:52:30.675764Z",
+  "createdAt": "2026-03-25T08:02:13.645450Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -91,6 +91,15 @@
       "artist": "ずっと真夜中でいいのに。",
       "has_synced": false,
       "path": "select/pl_01_ミラーチューン_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ミラーチューン",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/localdb_01_ミラーチューン_ずっと真夜中でいいのに。.txt",
+      "repo_name": "BVvvUGP0MFw"
     }
   ]
 }
